@@ -488,7 +488,8 @@ Custom-MSA-HBB/
 │   ├── column_identity.png
 │   ├── gaps_per_sequence.png
 │   ├── overall_gap_fraction.png
-│   └── gap_comparison.png
+│   ├── gap_comparison.png
+│   └── final_statistics_summary.png 
 │
 ├── report/
 │   └── Bioinformatics-MSA-report.pdf
