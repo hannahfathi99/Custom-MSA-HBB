@@ -26,9 +26,6 @@ The proposed method integrates classical bioinformatics algorithms with evolutio
 
 The performance of the developed MSA framework is evaluated against **Clustal Omega**, a widely used standard tool for biological sequence alignment.
 
-
----
-
 ---
 
 # Research Timeline
