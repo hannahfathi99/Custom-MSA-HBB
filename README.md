@@ -29,6 +29,24 @@ The performance of the developed MSA framework is evaluated against **Clustal Om
 
 ---
 
+---
+
+# Research Timeline
+
+**Fall 2025**
+
+Bioinformatics Course Research Project
+
+Focus Areas:
+
+- Computational Biology
+- Protein Sequence Analysis
+- Multiple Sequence Alignment
+- Evolutionary Bioinformatics
+- Algorithm Design and Implementation
+
+---
+
 # Research Motivation
 
 Protein sequence alignment plays a central role in computational biology by enabling:
