@@ -242,7 +242,7 @@ The resulting symmetric distance matrix is used for guide tree construction.
 
 ---
 
-# 4. ## UPGMA Guide Tree Construction
+# 4. UPGMA Guide Tree Construction
 
 A hierarchical clustering approach is applied using:
 
