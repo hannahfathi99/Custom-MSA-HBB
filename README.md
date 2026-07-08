@@ -496,7 +496,8 @@ Custom-MSA-HBB/
 └── screenshots/
     ├── clustalo_alignment1.png
     ├── clustalo_alignment2.png
-    └── clustalo_alignment3.png
+    ├── clustalo_alignment3.png
+    └── clustalo_alignment4.png
 
 ```
 
