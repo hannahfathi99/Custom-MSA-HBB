@@ -527,7 +527,7 @@ Clone repository:
 
 
 ```bash
-git clone https://github.com/hannahfathi99/Custom-MSA-HBB.git
+git clone https://github.com/hannah-fathi/Custom-MSA-HBB.git
 ```
 
 
